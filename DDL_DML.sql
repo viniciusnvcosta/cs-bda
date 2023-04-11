@@ -276,7 +276,7 @@ INSERT INTO Lancamento (lanc_id, Diario, Registro_ID, Medidor_ID)
   VALUES (01, 65, 002, 536), -- energia 1
 	(02, 33.4, 003, 829), -- gas 1
 	(03, 55.0, 004, 441), -- energia 2
-	(04, 16.0, 005. 781), -- agua 3
+	(04, 16.0, 005, 781), -- agua 3
 	(05, 40.3, 006, 346), -- gas 2
 	(06, 18.3, 007, 299), -- agua 4
 	(07, 53.0, 008, 789), -- energia 3
@@ -288,7 +288,7 @@ INSERT INTO Lancamento (lanc_id, Diario, Registro_ID, Medidor_ID)
 	(13, 27.1, 014, 831), -- agua 2
 	(14, 51.0, 015, 441), -- energia 2
 	(15, 35.9, 016, 829), -- gas 1
-	(16, 26.7, 017. 781), -- agua 3
+	(16, 26.7, 017, 781), -- agua 3
 	(17, 52.0, 018, 789), -- energia 3
 	(18, 37.1, 019, 346), -- gas 2
 	(19, 59.2, 021, 927), -- gas 3
@@ -306,7 +306,7 @@ INSERT INTO Lancamento (lanc_id, Diario, Registro_ID, Medidor_ID)
 	(31, 53.0, 035, 545), -- energia 4
 	(32, 54.0, 036, 927), -- gas 3
 	(33, 14.9, 037, 299), -- agua 4
-	(34, 18.7, 038. 781), -- agua 3
+	(34, 18.7, 038, 781), -- agua 3
 	(35, 41.3, 039, 346), -- gas 2
 	(36, 43.0, 041, 536), -- energia 1
 	(37, 53.0, 042, 789), -- energia 3
